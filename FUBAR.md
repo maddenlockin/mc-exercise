@@ -1,1 +1,1 @@
-git 
+This is what Bob & Carol did on carol's computer when working on the first feature.
